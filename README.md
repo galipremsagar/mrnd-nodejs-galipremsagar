@@ -4,7 +4,7 @@ Contacts contain the Messages list as a property in my implementation.
 Contact Structure:
 {
  firstName: "jagan";
- lastName:  "peri"
+  lastName:  "peri"
  phone:
  message: []
 }
