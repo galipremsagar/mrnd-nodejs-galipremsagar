@@ -1,10 +1,11 @@
 # mrnd-nodejs
 
 Contacts contain the Messages list as a property in my implementation.
-Contact Structure:
+<pre>Contact Structure:
 {
  firstName: "jagan";
-  lastName:  "peri"
+ lastName:  "peri"
  phone:
  message: []
 }
+</pre>
