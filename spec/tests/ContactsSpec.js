@@ -60,7 +60,7 @@ describe("Contacts Test Suite", function(){
 							expect(response.statusCode).toBe(200);
 							//console.log(body);
 							//console.log("failing");
-							expect(body.details.firstName).toBe("jagan");
+							expect(body.firstName).toBe("jagan");
 							done();
 					    });
 		});
